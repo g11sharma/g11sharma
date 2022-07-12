@@ -1,4 +1,4 @@
-### Hi this is my Git hub Stat's
+### Hi this is Gaurav
 
 <!--
 **g11sharma/g11sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=g11sharma&count_private=true)
+
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=g11sharma&show_icons=true&theme=radical)
